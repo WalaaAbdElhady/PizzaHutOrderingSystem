@@ -9,9 +9,9 @@ Algorithms used: **Dijkstra's Shortest path algorithm**
 
 # How it Work
 
-There are two option :-
+There are two option :
 
-                 ![Screenshot (225)](https://user-images.githubusercontent.com/120207533/218508742-ba83d778-bbfe-48cb-a302-b0a618f13152.png)
+             ![Screenshot (225)](https://user-images.githubusercontent.com/120207533/218508742-ba83d778-bbfe-48cb-a302-b0a618f13152.png)
 
 1. **Customer**
   
