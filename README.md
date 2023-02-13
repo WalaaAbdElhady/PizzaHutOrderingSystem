@@ -49,11 +49,11 @@ There are two option :-
 
    ![Screenshot (241)](https://user-images.githubusercontent.com/120207533/218518345-7a967525-8a92-4782-aff8-2fdc0851b3ea.png) 
   
-  * Display the total Earnings of Served Orders
+   * Display the total Earnings of Served Orders
 
    ![Screenshot (243)](https://user-images.githubusercontent.com/120207533/218518737-d32e9d26-ba77-4cfb-9aaf-411f96d5209d.png)
   
-  * Clear the Served Orders List
+   * Clear the Served Orders List
 
    ![Screenshot (244)](https://user-images.githubusercontent.com/120207533/218518969-f46b9909-7f34-4d03-b8e9-07dbb1449d5f.png)
  
