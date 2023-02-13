@@ -1,0 +1,6 @@
+﻿  PizzaHutOnlineSystem.cpp
+E:\Courses_ITI\DataStructures\PizzaHutOnlineSystem\PizzaHutOnlineSystem.cpp(289,36): warning C4101: 'pizzaIndex': unreferenced local variable
+E:\Courses_ITI\DataStructures\PizzaHutOnlineSystem\PizzaHutOnlineSystem.cpp(289,26): warning C4101: 'quantity': unreferenced local variable
+E:\Courses_ITI\DataStructures\PizzaHutOnlineSystem\PizzaHutOnlineSystem.cpp(289,21): warning C4101: 'age': unreferenced local variable
+E:\Courses_ITI\DataStructures\PizzaHutOnlineSystem\PizzaHutOnlineSystem.cpp(290,24): warning C4101: 'bill': unreferenced local variable
+  PizzaHutOnlineSystem.vcxproj -> E:\Courses_ITI\DataStructures\PizzaHutOnlineSystem\x64\Debug\PizzaHutOnlineSystem.exe
