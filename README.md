@@ -15,7 +15,8 @@ There are two option :
 
 1. **Customer**
   
-   ![Screenshot (226)](https://user-images.githubusercontent.com/120207533/218509196-7ea04f6a-fd9e-40df-afe1-f5e27b1dc2a7.png)
+   ![Screenshot (248)](https://user-images.githubusercontent.com/120207533/218522083-48d6273d-6bc5-4bda-a9f0-d653b4487552.png)
+
   
    * Place order
    
