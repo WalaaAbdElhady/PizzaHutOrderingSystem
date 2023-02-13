@@ -11,12 +11,11 @@ there are two option :-
 
 ![Screenshot (225)](https://user-images.githubusercontent.com/120207533/218508742-ba83d778-bbfe-48cb-a302-b0a618f13152.png)
 
-1- **Customer**
+1. **Customer**
 
   ![Screenshot (226)](https://user-images.githubusercontent.com/120207533/218509196-7ea04f6a-fd9e-40df-afe1-f5e27b1dc2a7.png)
   
-    - Serve Order
+    - Place Order
     
   ![Screenshot (227)](https://user-images.githubusercontent.com/120207533/218510291-a88d9cfd-60bd-43a0-aa42-1698d02addbd.png)
-
 
