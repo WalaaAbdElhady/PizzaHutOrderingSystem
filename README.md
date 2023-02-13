@@ -11,9 +11,9 @@ Algorithms used: **Dijkstra's Shortest path algorithm**
 
 There are two option :-
 
-![Screenshot (225)](https://user-images.githubusercontent.com/120207533/218508742-ba83d778-bbfe-48cb-a302-b0a618f13152.png)
+                 ![Screenshot (225)](https://user-images.githubusercontent.com/120207533/218508742-ba83d778-bbfe-48cb-a302-b0a618f13152.png)
 
-1. Customer
+1. **Customer**
   
    ![Screenshot (226)](https://user-images.githubusercontent.com/120207533/218509196-7ea04f6a-fd9e-40df-afe1-f5e27b1dc2a7.png)
   
@@ -29,7 +29,7 @@ There are two option :-
     
    ![Screenshot (231)](https://user-images.githubusercontent.com/120207533/218512927-75c95faa-6302-40f8-9f91-9bd4d26ea882.png)
    
-2. Admin
+2. **Admin**
    
    ![Screenshot (234)](https://user-images.githubusercontent.com/120207533/218514403-f64a75d1-1d14-4569-8cb8-e139925cc6ac.png)
    
