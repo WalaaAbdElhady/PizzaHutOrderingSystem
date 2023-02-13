@@ -32,3 +32,28 @@ There are two option :-
 2. Admin
    
    ![Screenshot (234)](https://user-images.githubusercontent.com/120207533/218514403-f64a75d1-1d14-4569-8cb8-e139925cc6ac.png)
+   
+   * Display all orders
+   
+   ![Screenshot (236)](https://user-images.githubusercontent.com/120207533/218515277-e86ae836-6377-4e33-a164-99f3ae784abc.png) 
+   
+   * Serve order
+   
+   ![Screenshot (239)](https://user-images.githubusercontent.com/120207533/218517656-fa42367a-ba15-4352-94d3-57f7bad55bc8.png)
+   
+   * Serve All Orders
+   
+   ![Screenshot (240)](https://user-images.githubusercontent.com/120207533/218518026-f5741aa9-41fc-4c35-b1c3-e7d9268733d5.png)
+   
+   * Display all served Orders
+
+  ![Screenshot (241)](https://user-images.githubusercontent.com/120207533/218518345-7a967525-8a92-4782-aff8-2fdc0851b3ea.png) 
+  
+  * Display the total Earnings of Served Orders
+
+  ![Screenshot (243)](https://user-images.githubusercontent.com/120207533/218518737-d32e9d26-ba77-4cfb-9aaf-411f96d5209d.png)
+  
+  * Clear the Served Orders List
+
+  ![Screenshot (244)](https://user-images.githubusercontent.com/120207533/218518969-f46b9909-7f34-4d03-b8e9-07dbb1449d5f.png)
+ 
