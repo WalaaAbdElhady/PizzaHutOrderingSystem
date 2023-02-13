@@ -2,7 +2,7 @@
 It's a Console application, in which Data Structures and Algorithms concepts and principles are applied
 to order pizza online
 
-Data Structures used: **Linked-List,Stack, Graph, AVL Tree, Set, Array**
+Data Structures used: **Linked-List, Stack, Graph, AVL Tree, Set, Array**
 
 Algorithms used: **Dijkstra's Shortest path algorithm**
 
