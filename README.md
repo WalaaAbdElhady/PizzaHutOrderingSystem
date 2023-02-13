@@ -17,6 +17,6 @@ there are two option :-
   
     - Serve Order
     
-    ![Screenshot (227)](https://user-images.githubusercontent.com/120207533/218510291-a88d9cfd-60bd-43a0-aa42-1698d02addbd.png)
+  ![Screenshot (227)](https://user-images.githubusercontent.com/120207533/218510291-a88d9cfd-60bd-43a0-aa42-1698d02addbd.png)
 
 
