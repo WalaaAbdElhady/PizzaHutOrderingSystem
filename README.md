@@ -3,14 +3,15 @@ It's a Console application, in which Data Structures and Algorithms concepts and
 to order pizza online.
 
 Data Structures used: 
-          * Linked-List : The whole implementation of Customer's Enqueue and dequeue is based on the LinkedList.
-          * Stack : It is used in placing orders and serving Customers.
-          * Graph : It is used for the Map for available Delivery options (Adjacency List Representation).
-          * AVL Tree  : The Served Customers were saved in it for eﬃcient insertion, deletion, and searching.
+
+          - Linked-List : The whole implementation of Customer's Enqueue and dequeue is based on the LinkedList.
+          - Stack : It is used in placing orders and serving Customers.
+          - Graph : It is used for the Map for available Delivery options (Adjacency List Representation).
+          - AVL Tree  : The Served Customers were saved in it for eﬃcient insertion, deletion, and searching.
 Algorithms used: 
 
-                  * Dijkstra's Shortest path algorithm : It is used to ﬁnd the shortest possible distance from the Pizza Shop and on this basis, 
-                  the Delivery charges are calculated.
+         - Dijkstra's Shortest path algorithm : It is used to ﬁnd the shortest possible distance from the Pizza Shop and on this basis, 
+         the Delivery charges are calculated.
 
 # How it Work
 
