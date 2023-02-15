@@ -3,7 +3,6 @@ It's a Console application, in which Data Structures and Algorithms concepts and
 to order pizza online.
 
 Data Structures used: 
-
           * Linked-List : The whole implementation of Customer's Enqueue and dequeue is based on the LinkedList.
           * Stack : It is used in placing orders and serving Customers.
           * Graph : It is used for the Map for available Delivery options (Adjacency List Representation).
